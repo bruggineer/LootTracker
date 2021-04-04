@@ -7,6 +7,7 @@ directly from the Steam Store.
 ## Getting Started
 
 See the app -  [deployed site](https://loot-trackerz.herokuapp.com/)
+
 Download the [LootTrackerExtension](https://github.com/SaskuatchofAZ/LootTrackerExtension) here.
 
 ## Usage:
