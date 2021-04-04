@@ -3,6 +3,9 @@
 LootTracker is a React-based web app designed to both setup and curate a game wishlist and budget. 
 It also has a browser extension component for Chrome that allows adding games to you wishlist
 directly from the Steam Store. 
+
+## Getting Started
+
 See the app -  [deployed site](https://loot-trackerz.herokuapp.com/)
 Download the [LootTrackerExtension](https://github.com/SaskuatchofAZ/LootTrackerExtension) here.
 
