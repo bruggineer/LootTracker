@@ -21,12 +21,6 @@ Download the [LootTrackerExtension](https://github.com/SaskuatchofAZ/LootTracker
 
 ---
 
-## Demo:
-
-![Extension Demo](https://s7.gifyu.com/images/lootTrackerDemo.gif)
-
----
-
 ## Authors:
 
 * [Julian Secomb](https://github.com/jsecomb)
